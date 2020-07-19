@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">GPA Calculator</string>
+
+    <string-array name="subjects">
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+
+
 </resources>
